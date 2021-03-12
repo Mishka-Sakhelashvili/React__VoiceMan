@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React__VoiceMan/static/css/main.e23e6b48.chunk.css",
+    "main.js": "/React__VoiceMan/static/js/main.753c55e1.chunk.js",
+    "main.js.map": "/React__VoiceMan/static/js/main.753c55e1.chunk.js.map",
+    "runtime-main.js": "/React__VoiceMan/static/js/runtime-main.f52aa1f6.js",
+    "runtime-main.js.map": "/React__VoiceMan/static/js/runtime-main.f52aa1f6.js.map",
+    "static/js/2.7cd9b722.chunk.js": "/React__VoiceMan/static/js/2.7cd9b722.chunk.js",
+    "static/js/2.7cd9b722.chunk.js.map": "/React__VoiceMan/static/js/2.7cd9b722.chunk.js.map",
+    "index.html": "/React__VoiceMan/index.html",
+    "precache-manifest.f9e28953ec23c1caf8974ba12130a407.js": "/React__VoiceMan/precache-manifest.f9e28953ec23c1caf8974ba12130a407.js",
+    "service-worker.js": "/React__VoiceMan/service-worker.js",
+    "static/css/main.e23e6b48.chunk.css.map": "/React__VoiceMan/static/css/main.e23e6b48.chunk.css.map",
+    "static/js/2.7cd9b722.chunk.js.LICENSE.txt": "/React__VoiceMan/static/js/2.7cd9b722.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f52aa1f6.js",
+    "static/js/2.7cd9b722.chunk.js",
+    "static/css/main.e23e6b48.chunk.css",
+    "static/js/main.753c55e1.chunk.js"
+  ]
+}
