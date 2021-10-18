@@ -7,14 +7,6 @@
 <h1> 👉 <a href="https://mishka-sakhelashvili.github.io/React__VoiceMan/">  View Demo  </a></h1>
 
 <hr />
-<h2><i>Used Technologies: </i></h2>
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-<hr />
 <h2><i>Contact Me: </i></h2>
 <a href="mailto:Mishka.Sakhelashvili@gmail.com"
   ><img
